@@ -1,0 +1,24 @@
+{
+  "Version": 1,
+  "Hash": "5aQwd29eRc7ZdfYytreOfzp5YjF5KGtGGtEmo+4alVk=",
+  "Source": "Task1_angular.Server",
+  "BasePath": "_content/Task1_angular.Server",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [
+    {
+      "Identity": "C:\\Users\\20209\\source\\repos\\Task1_angular\\task1_angular.client\\task1_angular.client.esproj",
+      "Version": 2,
+      "Source": "task1_angular.client",
+      "GetPublishAssetsTargets": "GetCurrentProjectPublishStaticWebAssetItems",
+      "AdditionalPublishProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalPublishPropertiesToRemove": "WebPublishProfileFile;TargetFramework",
+      "GetBuildAssetsTargets": "GetCurrentProjectBuildStaticWebAssetItems",
+      "AdditionalBuildProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalBuildPropertiesToRemove": "WebPublishProfileFile;TargetFramework"
+    }
+  ],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
